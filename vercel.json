@@ -3,7 +3,7 @@
     {
       "source": "/(.*)",
       "destination": "https://kbbet79.net/$1",
-      "permanent": true
+      "statusCode": 301
     }
   ]
 }
